@@ -78,6 +78,11 @@ dependencies {
 
     // 🧭Navigation
     implementation(libs.navigation)
+
+    // 🧪 Testing
+    testImplementation(libs.kotlinx.coroutines.test)
+    testImplementation(libs.mockito)
+    testImplementation(libs.mockito.inline)
 }
 
 kapt {
