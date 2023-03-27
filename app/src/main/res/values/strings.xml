@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wheely Cool App</string>
+    <string name="add_new_option">Add New Option</string>
+    <string name="open_wheel">Open Wheel</string>
+    <string name="spining">Spining</string>
+    <string name="spin_the_wheel">Spin the Wheel</string>
+</resources>
